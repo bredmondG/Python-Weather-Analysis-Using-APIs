@@ -1,0 +1,3 @@
+1. as latitude approaches 0, temperature increases, and then falls as latitude increases from 0
+2. latitude doesn't seem to correspond with humidity. most of the values for humidity gather around 100, but humidity does seem to dip at a latitude of -20 and 20
+3. latitude doesn't seem to correspond to cloudiness either. the cloudiness data forms into stratified lines suggesting specific cloudiness values are the same for many cities
